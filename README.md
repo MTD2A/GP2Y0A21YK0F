@@ -1,4 +1,4 @@
-# GP2Y0A21YK0F Infrared analog distance meter 10 - 80 cm.
+# SHARP Infrared analog distance meter.
 <br/>
 
 ![](/image/GP2Y0AXXYY0F.png)
